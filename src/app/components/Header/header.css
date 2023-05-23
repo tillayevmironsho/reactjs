@@ -1,0 +1,24 @@
+.Profile {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 50px;
+}
+
+.imge {
+    display: flex;
+    column-gap: 10px;
+}
+
+.list {
+    display: flex;
+    list-style-type: none;
+    column-gap: 20px;
+    font-size: 25px;
+    font-weight: 800;
+}
+
+.listitem:hover {
+    color: rgb(0, 84, 144);
+    transition: 0.5s;
+    cursor: pointer;
+}
