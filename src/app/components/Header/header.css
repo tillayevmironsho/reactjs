@@ -1,13 +1,22 @@
 .Profile {
     display: flex;
     justify-content: space-between;
-    padding: 0 50px;
+    align-items: center;
+    padding:  10px  ; 
+    background-color: rgb(117, 117, 255);
 }
 
 .imge {
     display: flex;
     column-gap: 10px;
 }
+
+.image {
+    width: 100px;
+    height: 100px;
+}
+
+
 
 .list {
     display: flex;

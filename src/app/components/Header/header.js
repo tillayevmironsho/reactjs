@@ -5,8 +5,8 @@ function Navbar() {
     return (
         <div className="Profile">
             <div className="imge">
-                <img src="https://picsum.photos/100" alt="#" className="image" />
-                <h1 className="name">Ilon Mask</h1>
+                <img src="https://cdn.britannica.com/05/236505-050-17B6E34A/Elon-Musk-2022.jpg" alt="#" className="image" />
+                <h1 className="name">Elon Mask</h1>
             </div>
             <ul className="list">
                 <li className="listitem">Date of birth and age</li>
